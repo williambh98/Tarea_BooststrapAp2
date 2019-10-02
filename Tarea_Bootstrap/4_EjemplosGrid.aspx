@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="5_EjemploGrid2.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._4_EjemploGrid2" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="4_EjemplosGrid.aspx.cs" Inherits="Bootstrap.Tutorial.EjemGrid" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -17,22 +17,13 @@
     <body>
 
         <div class="container">
-            <h1>Basic Structure of a Bootstrap 4 Grid</h1>
-            <p>Columnas receptivas.</p>
+            <h1>Estructura básica de una cuadrícula Bootstrap 4</h1>
+            <p>Columna Iguales.</p>
         </div>
         <div class="row">
-            <div class="col-sm-3">Nombre:</div>
-            <div class="col-sm-3">Apellido:</div>
-            <div class="col-sm-3">Telefono:</div>
-            <div class="col-sm-3">Sexo:</div>
-        </div>
-
-        <div class="container">
-            <p>Dos columnas de respuesta desigual</p>
-        </div>
-        <div class="row">
-            <div class="col-sm-4">.col-sm-4</div>
-            <div class="col-sm-8">.col-sm-8</div>
+            <div class="col">Nombre:</div>
+            <div class="col">Apellido:</div>
+            <div class="col">Edad:</div>
         </div>
     </body>
     </html>

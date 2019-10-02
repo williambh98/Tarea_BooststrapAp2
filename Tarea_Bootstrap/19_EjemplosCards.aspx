@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="19_EjemploCards.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._19_EjemploCards" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="19_EjemplosCards.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._19_EjemploCards" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -17,7 +17,7 @@
     <body>
 
         <div class="container">
-            <h2>Diderente Tarjeta de presentacion basica </h2>
+            <h2>Diferente Tarjeta de presentacion basica </h2>
             <div class="card">
                 <div class="card-header">Programación Web</div>
                 <div class="card-body">Permite la creación de sitios dinámicos en Internet. Esto se consigue generando los contenidos del sitio a través de una base de datos mediante lenguajes de programación Web.</div>

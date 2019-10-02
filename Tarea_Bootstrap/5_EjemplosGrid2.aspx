@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="10_EjemploJumbotron.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._10_EjemploJumbotron" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="5_EjemplosGrid2.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._4_EjemploGrid2" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -6,7 +6,7 @@
     <!DOCTYPE html>
     <html lang="en">
     <head>
-        <title>Bootstrap Example</title>
+        <title>Bootstrap 4 Example</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -17,26 +17,24 @@
     <body>
 
         <div class="container">
-            <div class="jumbotron">
-                <h1>Aprendiendo Bootstrap</h1>
-                <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
-            </div>
-            <p>William.</p>
-            <p>Burgos Hernandez.</p>
+            <h1>Estructura básica de una cuadrícula Bootstrap 4</h1>
+            <p>Columnas receptivas.</p>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">Nombre:</div>
+            <div class="col-sm-3">Apellido:</div>
+            <div class="col-sm-3">Telefono:</div>
+            <div class="col-sm-3">Sexo:</div>
         </div>
 
-        <div class="jumbotron jumbotron-fluid">
-            <div class="container">
-                <h1>Jumbotron de ancho completo</h1>
-                <p>Probando la clase .jumbotron-fluid</p>
-            </div>
-        </div>
-
+        <br >
         <div class="container">
-            <p>William.</p>
-            <p>Burgos Hernandez.</p>
+            <p>Dos columnas de respuesta desigual</p>
         </div>
-
+        <div class="row">
+            <div class="col-sm-4">Informacion</div>
+            <div class="col-sm-8">Sugerencia</div>
+        </div>
     </body>
     </html>
 </asp:Content>

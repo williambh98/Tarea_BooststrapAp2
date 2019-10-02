@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="11_EjemploAlerts.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._11_EjemploAlerts" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="11_EjemplosAlerts.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._11_EjemploAlerts" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>

@@ -112,29 +112,35 @@
     <Content Include="Scripts\umd\popper-utils.min.js" />
     <Content Include="Scripts\umd\popper.js" />
     <Content Include="Scripts\umd\popper.min.js" />
-    <Content Include="Tarea_Bootstrap\10_EjemploJumbotron.aspx" />
-    <Content Include="Tarea_Bootstrap\11_EjemploAlerts.aspx" />
-    <Content Include="Tarea_Bootstrap\12_EjemploButtons.aspx" />
+    <Content Include="Tarea_Bootstrap\10_EjemplosJumbotron.aspx" />
+    <Content Include="Tarea_Bootstrap\11_EjemplosAlerts.aspx" />
+    <Content Include="Tarea_Bootstrap\12_EjemplosButtons.aspx" />
     <Content Include="Tarea_Bootstrap\14_EjemploBadges.aspx" />
-    <Content Include="Tarea_Bootstrap\15_EjemploProfreesBars.aspx" />
+    <Content Include="Tarea_Bootstrap\15_EjemplosProfreesBars.aspx" />
     <Content Include="Tarea_Bootstrap\16_EjemploSpinners.aspx" />
-    <Content Include="Tarea_Bootstrap\17_EjemploPagination.aspx" />
+    <Content Include="Tarea_Bootstrap\17_EjemplosPagination.aspx" />
     <Content Include="Tarea_Bootstrap\18_EjemploListGroups.aspx" />
-    <Content Include="Tarea_Bootstrap\19_EjemploCards.aspx" />
-    <Content Include="Tarea_Bootstrap\20_EjemploDropdowns.aspx" />
-    <Content Include="Tarea_Bootstrap\21_EjemploCollapse.aspx" />
-    <Content Include="Tarea_Bootstrap\22_EjemploNavs.aspx" />
-    <Content Include="Tarea_Bootstrap\23_EjemploNavbar.aspx" />
-    <Content Include="Tarea_Bootstrap\2_EjemContenedor.aspx" />
-    <Content Include="Tarea_Bootstrap\4_EjemploGrid.aspx" />
-    <Content Include="Tarea_Bootstrap\3_Ejempcontenedor.aspx" />
-    <Content Include="Tarea_Bootstrap\5_EjemploGrid2.aspx" />
-    <Content Include="Tarea_Bootstrap\1_MiPrimeraPagina.aspx" />
+    <Content Include="Tarea_Bootstrap\19_EjemplosCards.aspx" />
+    <Content Include="Tarea_Bootstrap\20_EjemplosDropdowns.aspx" />
+    <Content Include="Tarea_Bootstrap\21_EjemplosCollapse.aspx" />
+    <Content Include="Tarea_Bootstrap\22_EjemplosNavs.aspx" />
+    <Content Include="Tarea_Bootstrap\23_EjemplosNavbar.aspx" />
+    <Content Include="Tarea_Bootstrap\26_EjemplosInputGroups.aspx" />
+    <Content Include="Tarea_Bootstrap\25_EjemplosInputs.aspx" />
+    <Content Include="Tarea_Bootstrap\27_EjemplosCustomForms.aspx" />
+    <Content Include="Tarea_Bootstrap\28_EjemplosCarrusel.aspx" />
+    <Content Include="Tarea_Bootstrap\29_EjemplosModal.aspx" />
+    <Content Include="Tarea_Bootstrap\2_EjemplosFlujodeContenedor.aspx" />
+    <Content Include="Tarea_Bootstrap\4_EjemplosGrid.aspx" />
+    <Content Include="Tarea_Bootstrap\3_Ejemploscontenedor.aspx" />
+    <Content Include="Tarea_Bootstrap\5_EjemplosGrid2.aspx" />
+    <Content Include="Tarea_Bootstrap\1_EjemploMiPrimeraPagina.aspx" />
     <Content Include="Tarea_Bootstrap\6_EjemplosTypography_Encabezados.aspx" />
     <Content Include="Tarea_Bootstrap\7_EjemplosColores.aspx" />
     <Content Include="Tarea_Bootstrap\8-EjemplosTables.aspx" />
-    <Content Include="Tarea_Bootstrap\9_EjemploImages.aspx" />
-    <Content Include="Tarea_Bootstrap\13_EjemploButtonGroups.aspx" />
+    <Content Include="Tarea_Bootstrap\9_EjemplosImages.aspx" />
+    <Content Include="Tarea_Bootstrap\13_EjemplosButtonGroups.aspx" />
+    <Content Include="Tarea_Bootstrap\24_EjemploForms.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -156,26 +162,26 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\10_EjemploJumbotron.aspx.cs">
-      <DependentUpon>10_EjemploJumbotron.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\10_EjemplosJumbotron.aspx.cs">
+      <DependentUpon>10_EjemplosJumbotron.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\10_EjemploJumbotron.aspx.designer.cs">
-      <DependentUpon>10_EjemploJumbotron.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\10_EjemplosJumbotron.aspx.designer.cs">
+      <DependentUpon>10_EjemplosJumbotron.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\11_EjemploAlerts.aspx.cs">
-      <DependentUpon>11_EjemploAlerts.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\11_EjemplosAlerts.aspx.cs">
+      <DependentUpon>11_EjemplosAlerts.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\11_EjemploAlerts.aspx.designer.cs">
-      <DependentUpon>11_EjemploAlerts.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\11_EjemplosAlerts.aspx.designer.cs">
+      <DependentUpon>11_EjemplosAlerts.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\12_EjemploButtons.aspx.cs">
-      <DependentUpon>12_EjemploButtons.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\12_EjemplosButtons.aspx.cs">
+      <DependentUpon>12_EjemplosButtons.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\12_EjemploButtons.aspx.designer.cs">
-      <DependentUpon>12_EjemploButtons.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\12_EjemplosButtons.aspx.designer.cs">
+      <DependentUpon>12_EjemplosButtons.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tarea_Bootstrap\14_EjemploBadges.aspx.cs">
       <DependentUpon>14_EjemploBadges.aspx</DependentUpon>
@@ -184,12 +190,12 @@
     <Compile Include="Tarea_Bootstrap\14_EjemploBadges.aspx.designer.cs">
       <DependentUpon>14_EjemploBadges.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\15_EjemploProfreesBars.aspx.cs">
-      <DependentUpon>15_EjemploProfreesBars.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\15_EjemplosProfreesBars.aspx.cs">
+      <DependentUpon>15_EjemplosProfreesBars.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\15_EjemploProfreesBars.aspx.designer.cs">
-      <DependentUpon>15_EjemploProfreesBars.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\15_EjemplosProfreesBars.aspx.designer.cs">
+      <DependentUpon>15_EjemplosProfreesBars.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tarea_Bootstrap\16_EjemploSpinners.aspx.cs">
       <DependentUpon>16_EjemploSpinners.aspx</DependentUpon>
@@ -198,12 +204,12 @@
     <Compile Include="Tarea_Bootstrap\16_EjemploSpinners.aspx.designer.cs">
       <DependentUpon>16_EjemploSpinners.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\17_EjemploPagination.aspx.cs">
-      <DependentUpon>17_EjemploPagination.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\17_EjemplosPagination.aspx.cs">
+      <DependentUpon>17_EjemplosPagination.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\17_EjemploPagination.aspx.designer.cs">
-      <DependentUpon>17_EjemploPagination.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\17_EjemplosPagination.aspx.designer.cs">
+      <DependentUpon>17_EjemplosPagination.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tarea_Bootstrap\18_EjemploListGroups.aspx.cs">
       <DependentUpon>18_EjemploListGroups.aspx</DependentUpon>
@@ -212,75 +218,110 @@
     <Compile Include="Tarea_Bootstrap\18_EjemploListGroups.aspx.designer.cs">
       <DependentUpon>18_EjemploListGroups.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\19_EjemploCards.aspx.cs">
-      <DependentUpon>19_EjemploCards.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\19_EjemplosCards.aspx.cs">
+      <DependentUpon>19_EjemplosCards.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\19_EjemploCards.aspx.designer.cs">
-      <DependentUpon>19_EjemploCards.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\19_EjemplosCards.aspx.designer.cs">
+      <DependentUpon>19_EjemplosCards.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\20_EjemploDropdowns.aspx.cs">
-      <DependentUpon>20_EjemploDropdowns.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\20_EjemplosDropdowns.aspx.cs">
+      <DependentUpon>20_EjemplosDropdowns.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\20_EjemploDropdowns.aspx.designer.cs">
-      <DependentUpon>20_EjemploDropdowns.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\20_EjemplosDropdowns.aspx.designer.cs">
+      <DependentUpon>20_EjemplosDropdowns.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\21_EjemploCollapse.aspx.cs">
-      <DependentUpon>21_EjemploCollapse.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\21_EjemplosCollapse.aspx.cs">
+      <DependentUpon>21_EjemplosCollapse.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\21_EjemploCollapse.aspx.designer.cs">
-      <DependentUpon>21_EjemploCollapse.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\21_EjemplosCollapse.aspx.designer.cs">
+      <DependentUpon>21_EjemplosCollapse.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\22_EjemploNavs.aspx.cs">
-      <DependentUpon>22_EjemploNavs.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\22_EjemplosNavs.aspx.cs">
+      <DependentUpon>22_EjemplosNavs.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\22_EjemploNavs.aspx.designer.cs">
-      <DependentUpon>22_EjemploNavs.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\22_EjemplosNavs.aspx.designer.cs">
+      <DependentUpon>22_EjemplosNavs.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\23_EjemploNavbar.aspx.cs">
-      <DependentUpon>23_EjemploNavbar.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\23_EjemplosNavbar.aspx.cs">
+      <DependentUpon>23_EjemplosNavbar.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\23_EjemploNavbar.aspx.designer.cs">
-      <DependentUpon>23_EjemploNavbar.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\23_EjemplosNavbar.aspx.designer.cs">
+      <DependentUpon>23_EjemplosNavbar.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\2_EjemContenedor.aspx.cs">
-      <DependentUpon>2_EjemContenedor.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\26_EjemplosInputGroups.aspx.cs">
+      <DependentUpon>26_EjemplosInputGroups.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\2_EjemContenedor.aspx.designer.cs">
-      <DependentUpon>2_EjemContenedor.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\26_EjemplosInputGroups.aspx.designer.cs">
+      <DependentUpon>26_EjemplosInputGroups.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\4_EjemploGrid.aspx.cs">
-      <DependentUpon>4_EjemploGrid.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\25_EjemplosInputs.aspx.cs">
+      <DependentUpon>25_EjemplosInputs.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\4_EjemploGrid.aspx.designer.cs">
-      <DependentUpon>4_EjemploGrid.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\25_EjemplosInputs.aspx.designer.cs">
+      <DependentUpon>25_EjemplosInputs.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\3_Ejempcontenedor.aspx.cs">
-      <DependentUpon>3_Ejempcontenedor.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\27_EjemplosCustomForms.aspx.cs">
+      <DependentUpon>27_EjemplosCustomForms.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\3_Ejempcontenedor.aspx.designer.cs">
-      <DependentUpon>3_Ejempcontenedor.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\27_EjemplosCustomForms.aspx.designer.cs">
+      <DependentUpon>27_EjemplosCustomForms.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\5_EjemploGrid2.aspx.cs">
-      <DependentUpon>5_EjemploGrid2.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\28_EjemplosCarrusel.aspx.cs">
+      <DependentUpon>28_EjemplosCarrusel.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\5_EjemploGrid2.aspx.designer.cs">
-      <DependentUpon>5_EjemploGrid2.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\28_EjemplosCarrusel.aspx.designer.cs">
+      <DependentUpon>28_EjemplosCarrusel.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\1_MiPrimeraPagina.aspx.cs">
-      <DependentUpon>1_MiPrimeraPagina.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\29_EjemplosModal.aspx.cs">
+      <DependentUpon>29_EjemplosModal.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\1_MiPrimeraPagina.aspx.designer.cs">
-      <DependentUpon>1_MiPrimeraPagina.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\29_EjemplosModal.aspx.designer.cs">
+      <DependentUpon>29_EjemplosModal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\2_EjemplosFlujodeContenedor.aspx.cs">
+      <DependentUpon>2_EjemplosFlujodeContenedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\2_EjemplosFlujodeContenedor.aspx.designer.cs">
+      <DependentUpon>2_EjemplosFlujodeContenedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\4_EjemplosGrid.aspx.cs">
+      <DependentUpon>4_EjemplosGrid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\4_EjemplosGrid.aspx.designer.cs">
+      <DependentUpon>4_EjemplosGrid.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\3_Ejemploscontenedor.aspx.cs">
+      <DependentUpon>3_Ejemploscontenedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\3_Ejemploscontenedor.aspx.designer.cs">
+      <DependentUpon>3_Ejemploscontenedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\5_EjemplosGrid2.aspx.cs">
+      <DependentUpon>5_EjemplosGrid2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\5_EjemplosGrid2.aspx.designer.cs">
+      <DependentUpon>5_EjemplosGrid2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\1_EjemploMiPrimeraPagina.aspx.cs">
+      <DependentUpon>1_EjemploMiPrimeraPagina.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\1_EjemploMiPrimeraPagina.aspx.designer.cs">
+      <DependentUpon>1_EjemploMiPrimeraPagina.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tarea_Bootstrap\6_EjemplosTypography_Encabezados.aspx.cs">
       <DependentUpon>6_EjemplosTypography_Encabezados.aspx</DependentUpon>
@@ -303,19 +344,26 @@
     <Compile Include="Tarea_Bootstrap\8-EjemplosTables.aspx.designer.cs">
       <DependentUpon>8-EjemplosTables.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\9_EjemploImages.aspx.cs">
-      <DependentUpon>9_EjemploImages.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\9_EjemplosImages.aspx.cs">
+      <DependentUpon>9_EjemplosImages.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\9_EjemploImages.aspx.designer.cs">
-      <DependentUpon>9_EjemploImages.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\9_EjemplosImages.aspx.designer.cs">
+      <DependentUpon>9_EjemplosImages.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\13_EjemploButtonGroups.aspx.cs">
-      <DependentUpon>13_EjemploButtonGroups.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\13_EjemplosButtonGroups.aspx.cs">
+      <DependentUpon>13_EjemplosButtonGroups.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tarea_Bootstrap\13_EjemploButtonGroups.aspx.designer.cs">
-      <DependentUpon>13_EjemploButtonGroups.aspx</DependentUpon>
+    <Compile Include="Tarea_Bootstrap\13_EjemplosButtonGroups.aspx.designer.cs">
+      <DependentUpon>13_EjemplosButtonGroups.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\24_EjemploForms.aspx.cs">
+      <DependentUpon>24_EjemploForms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\24_EjemploForms.aspx.designer.cs">
+      <DependentUpon>24_EjemploForms.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

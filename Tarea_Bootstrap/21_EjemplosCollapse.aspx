@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="21_EjemploCollapse.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._21_EjemploCollapse" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="21_EjemplosCollapse.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._21_EjemploCollapse" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>

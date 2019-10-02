@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="17_EjemploPagination.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._17_EjemploPagination" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="17_EjemplosPagination.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._17_EjemploPagination" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -17,7 +17,7 @@
     <body>
 
         <div class="container">
-            <h2>PProbando la Paginacion Basica</h2>
+            <h2>Probando la Paginacion Basica</h2>
             <p>Numeración de las páginas de un documento:</p>
             <ul class="pagination pagination-lg">
                 <li class="page-item"><a class="page-link" href="#">Anterior</a></li>

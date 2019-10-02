@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="9_EjemploImages.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._9_EjemploImages" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="9_EjemplosImages.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._9_EjemploImages" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -39,7 +39,7 @@
             <img src="paris.jpg" class="float-left" alt="Paris" width="304" height="236">
             <img src="paris.jpg" class="float-right" alt="Paris" width="304" height="236">
         </div>
-
+        <br>
         <div class="container">
             <h2>Imagen Centrada</h2>
             <p>La clase de utilidad .mx-auto (Margen: automatico) y .d-block(pantalla: bloque) a la imagen) </p>

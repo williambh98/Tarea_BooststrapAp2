@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="3_Ejempcontenedor.aspx.cs" Inherits="Bootstrap.Tutorial.Ejempcontenedor" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="3_Ejemploscontenedor.aspx.cs" Inherits="Bootstrap.Tutorial.Ejempcontenedor" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -16,8 +16,8 @@
 <body>
 
 <div class="container-fluid">
-  <h1>My First Bootstrap Page</h1>
-  <p>This is some text.</p>
+  <h1>Mi primera página de Bootstrap</h1>
+  <p>El término humanidad, proviene de un vocablo latino relacionado con la naturaleza del género humano. También puede servir para mencionar al conjunto de seres humanos que habitan el planeta.</p>
 </div>
     
 </body>

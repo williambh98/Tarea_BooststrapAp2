@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="1_MiPrimeraPagina.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap.WebForm1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="1_EjemploMiPrimeraPagina.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap.WebForm1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -23,15 +23,15 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
+      <h3>Ventas</h3>
       <p>Informacion...</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
+      <h3>Revision</h3>
       <p>Seguro...</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>        
+      <h3>Consultas</h3>        
       <p>Trabajando...</p>
     </div>
   </div>

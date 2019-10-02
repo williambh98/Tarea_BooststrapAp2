@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="12_EjemploButtons.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._12_EjemploButtons" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="12_EjemplosButtons.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._12_EjemploButtons" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>

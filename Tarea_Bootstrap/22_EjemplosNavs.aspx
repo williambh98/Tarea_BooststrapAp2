@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="22_EjemploNavs.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._22_EjemploNavs" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="22_EjemplosNavs.aspx.cs" Inherits="Bootstrap.Tarea_Bootstrap._22_EjemploNavs" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>

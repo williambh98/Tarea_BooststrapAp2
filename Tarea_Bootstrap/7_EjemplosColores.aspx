@@ -29,8 +29,9 @@
             <p class="text-dark">Gris Oscuro.</p>
             <p class="text-body">Negro.</p>
             <p class="text-light">Gris claro sobre fondo blanco.</p>
-            <p class="text-white">Blanco sobre fondo Blanco.</p>
         </div>
+
+        <br>
 
         <div class="container">
             <h2>Colores de enlace contextual</h2>
@@ -46,23 +47,29 @@
             <a href="#" class="text-body">Body/black link.</a>
             <a href="#" class="text-light">Light grey link.</a>
         </div>
+
+        <br>
+
         <div class="container">
             <h2>Colores de texto de opacidad</h2>
             <p class="text-black-50">Texto negro con 50% de opacidad sobre fondo blanco.</p>
             <p class="text-white-50 bg-dark">Texto blanco con 50% de opacidad sobre fondo negro</p>
         </div>
+
+        <br>
+
         <div class="container">
-  <h2>Fondos contextuales</h2>
-  <p>Las clases de fondo contextuales para proporcionar "significado a través de colores".</p>
-  <p class="bg-primary text-white">This text is important.</p>
-  <p class="bg-success text-white">This text indicates success.</p>
-  <p class="bg-info text-white">This text represents some information.</p>
-  <p class="bg-warning text-white">This text represents a warning.</p>
-  <p class="bg-danger text-white">This text represents danger.</p>
-  <p class="bg-secondary text-white">Secondary background color.</p>
-  <p class="bg-dark text-white">Dark grey background color.</p>
-  <p class="bg-light text-dark">Light grey background color.</p>
-</div>
+            <h2>Fondos contextuales</h2>
+            <p>Las clases de fondo contextuales para proporcionar "significado a través de colores".</p>
+            <p class="bg-primary text-white">This text is important.</p>
+            <p class="bg-success text-white">This text indicates success.</p>
+            <p class="bg-info text-white">This text represents some information.</p>
+            <p class="bg-warning text-white">This text represents a warning.</p>
+            <p class="bg-danger text-white">This text represents danger.</p>
+            <p class="bg-secondary text-white">Secondary background color.</p>
+            <p class="bg-dark text-white">Dark grey background color.</p>
+            <p class="bg-light text-dark">Light grey background color.</p>
+        </div>
 
 
     </body>

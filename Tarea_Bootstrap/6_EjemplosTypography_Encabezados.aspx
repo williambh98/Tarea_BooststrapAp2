@@ -25,21 +25,25 @@
             <h1 class="display-4">Edad:</h1>
         </div>
 
+        <br>
         <div class="container">
             <h1>Texto secundario</h1>
-            <p>The small element is used to create a lighter, secondary text in any heading:</p>
-            <h1>h1 heading <small>secondary text</small></h1>
-            <h2>h2 heading <small>secondary text</small></h2>
-            <h3>h3 heading <small>secondary text</small></h3>
-            <h4>h4 heading <small>secondary text</small></h4>
-            <h5>h5 heading <small>secondary text</small></h5>
-            <h6>h6 heading <small>secondary text</small></h6>
+            <p>El elemento pequeño se usa para crear un texto secundario más claro en cualquier encabezado:</p>
+            <h1>William <small>Burgos</small></h1>
+            <h2>William <small>Burgos</small></h2>
+            <h3>William <small>Burgos</small></h3>
+            <h4>William <small>Burgos</small></h4>
+            <h5>William <small>Burgos</small></h5>
         </div>
+
+        <br>
 
         <div class="container">
             <h1>Subrayar el texto</h1>
             <p>Nitido: <mark>highlight</mark> text.</p>
         </div>
+
+        <br>
 
         <div class="container">
             <h1>Abreviaturas</h1>
@@ -51,6 +55,8 @@
             </p>
         </div>
 
+        <br>
+
         <div class="container">
             <h1>Porbando el elemento Blockquotes</h1>
             <p>El elemento blockquote se usa para presentar contenido de otra fuente:</p>
@@ -59,6 +65,8 @@
                 <footer class="blockquote-footer">From WWF's website</footer>
             </blockquote>
         </div>
+
+        <br>
 
         <div class="container">
             <h1>Probando Elemento DL:</h1>
@@ -71,12 +79,15 @@
         </div>
         <div class="container">
             <h1>Multiples Lineas de Codigo</h1>
-            <p>For multiple lines of code, use the pre element:</p>
+            <p>Probando multiple linea de codigo</p>
             <pre>
                 Probando Pre que se utiliza 
                 Para Mutliple Linea de Codigo
           </pre>
         </div>
+
+        <br>
+
         <div class="container">
             <h1>Code Snippets</h1>
             <p>Inline snippets of code should be embedded in the code element:</p>

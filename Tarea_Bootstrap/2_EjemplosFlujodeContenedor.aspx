@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="2_EjemContenedor.aspx.cs" Inherits="Bootstrap.Tutorial.EjemContenedor" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="2_EjemplosFlujodeContenedor.aspx.cs" Inherits="Bootstrap.Tutorial.EjemContenedor" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
 </asp:Content>
@@ -17,8 +17,8 @@
 <body>
 
 <div class="container">
-  <h1>My First Bootstrap Page</h1>
-  <p>This is some text.</p>
+  <h1>Mi primera página de Bootstrap</h1>
+  <p>La naturaleza, en su sentido más amplio, es equivalente al mundo natural, mundo material o universo material. El término hace referencia a los fenómenos del mundo físico, y también a la vida en general.</p>
 </div>
 
 </body>
