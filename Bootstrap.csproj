@@ -131,6 +131,15 @@
     <Content Include="Tarea_Bootstrap\28_EjemplosCarrusel.aspx" />
     <Content Include="Tarea_Bootstrap\29_EjemplosModal.aspx" />
     <Content Include="Tarea_Bootstrap\2_EjemplosFlujodeContenedor.aspx" />
+    <Content Include="Tarea_Bootstrap\30_EjemploTooltip.aspx" />
+    <Content Include="Tarea_Bootstrap\31_EjemploPopover.aspx" />
+    <Content Include="Tarea_Bootstrap\32_EjemploToast.aspx" />
+    <Content Include="Tarea_Bootstrap\33_EjemploScrollspy.aspx" />
+    <Content Include="Tarea_Bootstrap\34_EjemploUtilities.aspx" />
+    <Content Include="Tarea_Bootstrap\35_EjemploFlex.aspx" />
+    <Content Include="Tarea_Bootstrap\36_EjemploIconos.aspx" />
+    <Content Include="Tarea_Bootstrap\37_EjemploMediaObjects.aspx" />
+    <Content Include="Tarea_Bootstrap\38_EjemploFiltros.aspx" />
     <Content Include="Tarea_Bootstrap\4_EjemplosGrid.aspx" />
     <Content Include="Tarea_Bootstrap\3_Ejemploscontenedor.aspx" />
     <Content Include="Tarea_Bootstrap\5_EjemplosGrid2.aspx" />
@@ -294,6 +303,69 @@
     </Compile>
     <Compile Include="Tarea_Bootstrap\2_EjemplosFlujodeContenedor.aspx.designer.cs">
       <DependentUpon>2_EjemplosFlujodeContenedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\30_EjemploTooltip.aspx.cs">
+      <DependentUpon>30_EjemploTooltip.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\30_EjemploTooltip.aspx.designer.cs">
+      <DependentUpon>30_EjemploTooltip.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\31_EjemploPopover.aspx.cs">
+      <DependentUpon>31_EjemploPopover.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\31_EjemploPopover.aspx.designer.cs">
+      <DependentUpon>31_EjemploPopover.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\32_EjemploToast.aspx.cs">
+      <DependentUpon>32_EjemploToast.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\32_EjemploToast.aspx.designer.cs">
+      <DependentUpon>32_EjemploToast.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\33_EjemploScrollspy.aspx.cs">
+      <DependentUpon>33_EjemploScrollspy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\33_EjemploScrollspy.aspx.designer.cs">
+      <DependentUpon>33_EjemploScrollspy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\34_EjemploUtilities.aspx.cs">
+      <DependentUpon>34_EjemploUtilities.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\34_EjemploUtilities.aspx.designer.cs">
+      <DependentUpon>34_EjemploUtilities.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\35_EjemploFlex.aspx.cs">
+      <DependentUpon>35_EjemploFlex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\35_EjemploFlex.aspx.designer.cs">
+      <DependentUpon>35_EjemploFlex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\36_EjemploIconos.aspx.cs">
+      <DependentUpon>36_EjemploIconos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\36_EjemploIconos.aspx.designer.cs">
+      <DependentUpon>36_EjemploIconos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\37_EjemploMediaObjects.aspx.cs">
+      <DependentUpon>37_EjemploMediaObjects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\37_EjemploMediaObjects.aspx.designer.cs">
+      <DependentUpon>37_EjemploMediaObjects.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\38_EjemploFiltros.aspx.cs">
+      <DependentUpon>38_EjemploFiltros.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarea_Bootstrap\38_EjemploFiltros.aspx.designer.cs">
+      <DependentUpon>38_EjemploFiltros.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tarea_Bootstrap\4_EjemplosGrid.aspx.cs">
       <DependentUpon>4_EjemplosGrid.aspx</DependentUpon>
